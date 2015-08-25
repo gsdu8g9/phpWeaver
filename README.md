@@ -1,5 +1,8 @@
 # phpWeaver
 
+![alt tag](https://travis-ci.org/AhmedTheGeek/phpWeaver.svg)
+
+
 ##Description
 
 phpWeaver is a concept on how to run PHP code in a multi threaded environment without any changes to your php code.
