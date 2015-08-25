@@ -26,6 +26,7 @@
 		E2FFAD9A1B8D167000C35CF1 /* phpWeaver */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = phpWeaver; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2FFAD9D1B8D167000C35CF1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		E2FFADA41B8D16E800C35CF1 /* .travis.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .travis.yml; sourceTree = "<group>"; };
+		E2FFADA51B8D189800C35CF1 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		E2FFAD911B8D167000C35CF1 = {
 			isa = PBXGroup;
 			children = (
+				E2FFADA51B8D189800C35CF1 /* .gitignore */,
 				E2FFADA41B8D16E800C35CF1 /* .travis.yml */,
 				E2FFAD9C1B8D167000C35CF1 /* phpWeaver */,
 				E2FFAD9B1B8D167000C35CF1 /* Products */,
