@@ -14,4 +14,4 @@ message("***   Building phpWeaver Module ***")
 
 project (php-weaver-cpp-stl CXX)
 
-add_executable(main.cpp)
+add_executable(main main.cpp)
